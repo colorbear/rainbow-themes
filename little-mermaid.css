@@ -1,0 +1,78 @@
+/**
+ *  Little Mermaid
+ *
+ * @author Antonio Fernandes (https://github.com/afj176)
+ * Built with Color Bear (http://color.bear)
+ */
+/*
+           .+ydmNNNmdhyo/::/+shmdy+:..`            
+      `/yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMds:/`.     
+    -yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:    
+    hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy   
+    +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+  
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs
+   :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoyhmMMNddhy+`
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm     --       
+  :mMMMMMMMMMMMMMMMNmmmhNMMMMMMMMMMM-             
+.hMMMMMMMMs`yMMMMMMm   `MMMMMsoMMMMMd             
+mMMMMMNh+`  `mMMMMMd   /MMMMs  -mMMMM:            
+-NMMMo-      `dMMMMN::` sMMMddy:`yMMMdoo+-        
+ `/color-       `#####:  `-:::-   -bear-
+*/
+pre{word-wrap:break-word;margin:0px;padding:10px;font-size:14px;margin-bottom:20px;}
+pre,code{font-family:'Monaco',courier,monospace;}
+pre .inherited-class{font-style:italic;}
+
+
+/* "00" */
+pre{ background-color: #12150B; }
+
+/* "01" */
+pre .support.method{ color: #B0BC9B; }
+
+/* "02" */
+pre .constant{ color: #244f4a; }
+
+/* "03" */
+pre .comment{ color: #879A65; }
+
+
+/* "04" */
+pre { color: #48562D; }
+
+/* "05" */
+pre .variable.global, pre .variable.class{ color: #20868c; }
+
+/* "06" */
+pre .support.property{ color: #0F110A; }
+
+/* "07" */
+pre .variable.instance{ color: #668331; }
+
+/* "08" */
+pre .constant.language{ color: #A6E3E7; }
+
+
+/* "09" */
+pre .constant.regexp{ color: #E7C9A6; }
+
+/* "0A" */
+pre .string, pre .comment.docstring{ color: #B3E7A6; }
+pre .entity{ color: #B3E7A6; }
+
+/* "0B" */
+pre .support.tag.script, pre .support.tag.style{ color: #ADE7A6; }
+
+/* "0C" */
+pre .string.regexp.open, pre .string.regexp.close{ color: #A6E3E7; }
+
+pre .support, *[data-language=\"c\"] .function.call{ color: #A6E3E7; }
+
+/* "0D" */
+pre .storage{ color: #D0E7A6; }
+
+/* "0E" */
+pre .keyword, pre .selector{ color: #A6E7E2; }
+
+/* "0F" */
+pre .string.regexp{ color: #E7E1A6; }
