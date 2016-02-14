@@ -1,0 +1,78 @@
+/**
+ *  Coal Cherry
+ *
+ * @author Antonio Fernandes (https://github.com/afj176)
+ * Built with Color Bear (http://color.bear)
+ */
+/*
+           .+ydmNNNmdhyo/::/+shmdy+:..`            
+      `/yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMds:/`.     
+    -yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:    
+    hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy   
+    +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+  
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs
+   :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoyhmMMNddhy+`
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm     --       
+  :mMMMMMMMMMMMMMMMNmmmhNMMMMMMMMMMM-             
+.hMMMMMMMMs`yMMMMMMm   `MMMMMsoMMMMMd             
+mMMMMMNh+`  `mMMMMMd   /MMMMs  -mMMMM:            
+-NMMMo-      `dMMMMN::` sMMMddy:`yMMMdoo+-        
+ `/color-       `#####:  `-:::-   -bear-
+*/
+pre{word-wrap:break-word;margin:0px;padding:10px;font-size:14px;margin-bottom:20px;}
+pre,code{font-family:'Monaco',courier,monospace;}
+pre .inherited-class{font-style:italic;}
+
+
+/* "00" */
+pre{ background-color: #120909; }
+
+/* "01" */
+pre .support.method{ color: #170F0F; }
+
+/* "02" */
+pre .constant{ color: #311C1C; }
+
+/* "03" */
+pre .comment{ color: #8F0B0B; }
+
+
+/* "04" */
+pre { color: #281D1D; }
+
+/* "05" */
+pre .variable.global, pre .variable.class{ color: #BB0505; }
+
+/* "06" */
+pre .support.property{ color: #844040; }
+
+/* "07" */
+pre .variable.instance{ color: #542D2D; }
+
+/* "08" */
+pre .constant.language{ color: #CFCCE6; }
+
+
+/* "09" */
+pre .constant.regexp{ color: #E6E0CC; }
+
+/* "0A" */
+pre .string, pre .comment.docstring{ color: #98cc91; }
+pre .entity{ color: #98cc91; }
+
+/* "0B" */
+pre .support.tag.script, pre .support.tag.style{ color: #E6D9CC; }
+
+/* "0C" */
+pre .string.regexp.open, pre .string.regexp.close{ color: #d1aa5f; }
+
+pre .support, *[data-language=\"c\"] .function.call{ color: #d1aa5f; }
+
+/* "0D" */
+pre .storage{ color: #93bbc2; }
+
+/* "0E" */
+pre .keyword, pre .selector{ color: #E6E4CC; }
+
+/* "0F" */
+pre .string.regexp{ color: #CCD4E6; }
