@@ -1,0 +1,78 @@
+/**
+ *  Greyhound
+ *
+ * @author Antonio Fernandes (https://github.com/afj176)
+ * Built with Color Bear (http://color.bear)
+ */
+/*
+           .+ydmNNNmdhyo/::/+shmdy+:..`            
+      `/yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMds:/`.     
+    -yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:    
+    hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy   
+    +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+  
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs
+   :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoyhmMMNddhy+`
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm     --       
+  :mMMMMMMMMMMMMMMMNmmmhNMMMMMMMMMMM-             
+.hMMMMMMMMs`yMMMMMMm   `MMMMMsoMMMMMd             
+mMMMMMNh+`  `mMMMMMd   /MMMMs  -mMMMM:            
+-NMMMo-      `dMMMMN::` sMMMddy:`yMMMdoo+-        
+ `/color-       `#####:  `-:::-   -bear-
+*/
+pre{word-wrap:break-word;margin:0px;padding:10px;font-size:14px;margin-bottom:20px;}
+pre,code{font-family:'Monaco',courier,monospace;}
+pre .inherited-class{font-style:italic;}
+
+
+/* "00" */
+pre{ background-color: #1B1B1B; }
+
+/* "01" */
+pre .support.method{ color: #627A84; }
+
+/* "02" */
+pre .constant{ color: #4A585F; }
+
+/* "03" */
+pre .comment{ color: #233137; }
+
+
+/* "04" */
+pre { color: #C2DCE7; }
+
+/* "05" */
+pre .variable.global, pre .variable.class{ color: #6C8F9D; }
+
+/* "06" */
+pre .support.property{ color: #FFFFFF; }
+
+/* "07" */
+pre .variable.instance{ color: #0B1114; }
+
+/* "08" */
+pre .constant.language{ color: #AADFD8; }
+
+
+/* "09" */
+pre .constant.regexp{ color: #E6E6BC; }
+
+/* "0A" */
+pre .string, pre .comment.docstring{ color: #EE4FA1; }
+pre .entity{ color: #EE4FA1; }
+
+/* "0B" */
+pre .support.tag.script, pre .support.tag.style{ color: #D97912; }
+
+/* "0C" */
+pre .string.regexp.open, pre .string.regexp.close{ color: #E8D0B5; }
+
+pre .support, *[data-language=\"c\"] .function.call{ color: #E8D0B5; }
+
+/* "0D" */
+pre .storage{ color: #32954C; }
+
+/* "0E" */
+pre .keyword, pre .selector{ color: #537B42; }
+
+/* "0F" */
+pre .string.regexp{ color: #B5B512; }
