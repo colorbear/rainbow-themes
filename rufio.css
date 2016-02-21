@@ -1,0 +1,78 @@
+/**
+ *  Rufio
+ *
+ * @author Antonio Fernandes (https://github.com/afj176)
+ * Built with Color Bear (http://color.bear)
+ */
+/*
+           .+ydmNNNmdhyo/::/+shmdy+:..`            
+      `/yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMds:/`.     
+    -yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:    
+    hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy   
+    +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+  
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs
+   :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoyhmMMNddhy+`
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm     --       
+  :mMMMMMMMMMMMMMMMNmmmhNMMMMMMMMMMM-             
+.hMMMMMMMMs`yMMMMMMm   `MMMMMsoMMMMMd             
+mMMMMMNh+`  `mMMMMMd   /MMMMs  -mMMMM:            
+-NMMMo-      `dMMMMN::` sMMMddy:`yMMMdoo+-        
+ `/color-       `#####:  `-:::-   -bear-
+*/
+pre{word-wrap:break-word;margin:0px;padding:10px;font-size:14px;margin-bottom:20px;}
+pre,code{font-family:'Monaco',courier,monospace;}
+pre .inherited-class{font-style:italic;}
+
+
+/* "00" */
+pre{ background-color: #39342E; }
+
+/* "01" */
+pre .support.method{ color: #3b332b; }
+
+/* "02" */
+pre .constant{ color: #463A2D; }
+
+/* "03" */
+pre .comment{ color: #c99353; }
+
+
+/* "04" */
+pre { color: #D2B99B; }
+
+/* "05" */
+pre .variable.global, pre .variable.class{ color: #CDBBA7; }
+
+/* "06" */
+pre .support.property{ color: #C29D73; }
+
+/* "07" */
+pre .variable.instance{ color: #836442; }
+
+/* "08" */
+pre .constant.language{ color: #9486cc; }
+
+
+/* "09" */
+pre .constant.regexp{ color: #C2DC84; }
+
+/* "0A" */
+pre .string, pre .comment.docstring{ color: #D08E6D; }
+pre .entity{ color: #D08E6D; }
+
+/* "0B" */
+pre .support.tag.script, pre .support.tag.style{ color: #963E13; }
+
+/* "0C" */
+pre .string.regexp.open, pre .string.regexp.close{ color: #37566C; }
+
+pre .support, *[data-language=\"c\"] .function.call{ color: #37566C; }
+
+/* "0D" */
+pre .storage{ color: #41B97D; }
+
+/* "0E" */
+pre .keyword, pre .selector{ color: #EBBFA3; }
+
+/* "0F" */
+pre .string.regexp{ color: #634ba8; }
