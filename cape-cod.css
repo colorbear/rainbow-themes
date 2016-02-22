@@ -1,0 +1,78 @@
+/**
+ *  Cape Cod
+ *
+ * @author Antonio Fernandes (https://github.com/afj176)
+ * Built with Color Bear (http://color.bear)
+ */
+/*
+           .+ydmNNNmdhyo/::/+shmdy+:..`            
+      `/yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMds:/`.     
+    -yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:    
+    hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy   
+    +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+  
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs
+   :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoyhmMMNddhy+`
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm     --       
+  :mMMMMMMMMMMMMMMMNmmmhNMMMMMMMMMMM-             
+.hMMMMMMMMs`yMMMMMMm   `MMMMMsoMMMMMd             
+mMMMMMNh+`  `mMMMMMd   /MMMMs  -mMMMM:            
+-NMMMo-      `dMMMMN::` sMMMddy:`yMMMdoo+-        
+ `/color-       `#####:  `-:::-   -bear-
+*/
+pre{word-wrap:break-word;margin:0px;padding:10px;font-size:14px;margin-bottom:20px;}
+pre,code{font-family:'Monaco',courier,monospace;}
+pre .inherited-class{font-style:italic;}
+
+
+/* "00" */
+pre{ background-color: #161B1C; }
+
+/* "01" */
+pre .support.method{ color: #0C1516; }
+
+/* "02" */
+pre .constant{ color: #1F2729; }
+
+/* "03" */
+pre .comment{ color: #416F76; }
+
+
+/* "04" */
+pre { color: #45929E; }
+
+/* "05" */
+pre .variable.global, pre .variable.class{ color: #4B97A3; }
+
+/* "06" */
+pre .support.property{ color: #76B9C3; }
+
+/* "07" */
+pre .variable.instance{ color: #97DBE6; }
+
+/* "08" */
+pre .constant.language{ color: #B8759F; }
+
+
+/* "09" */
+pre .constant.regexp{ color: #A5DE4F; }
+
+/* "0A" */
+pre .string, pre .comment.docstring{ color: #C0B7EB; }
+pre .entity{ color: #C0B7EB; }
+
+/* "0B" */
+pre .support.tag.script, pre .support.tag.style{ color: #ACE199; }
+
+/* "0C" */
+pre .string.regexp.open, pre .string.regexp.close{ color: #6D6D27; }
+
+pre .support, *[data-language=\"c\"] .function.call{ color: #6D6D27; }
+
+/* "0D" */
+pre .storage{ color: #EB1414; }
+
+/* "0E" */
+pre .keyword, pre .selector{ color: #C1E6D7; }
+
+/* "0F" */
+pre .string.regexp{ color: #49D049; }
