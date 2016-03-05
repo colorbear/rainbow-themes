@@ -1,0 +1,78 @@
+/**
+ *  Drove Light
+ *
+ * @author Antonio Fernandes (https://github.com/afj176)
+ * Built with Color Bear (http://color.bear)
+ */
+/*
+           .+ydmNNNmdhyo/::/+shmdy+:..`            
+      `/yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMds:/`.     
+    -yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:    
+    hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy   
+    +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+  
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs
+   :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoyhmMMNddhy+`
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm     --       
+  :mMMMMMMMMMMMMMMMNmmmhNMMMMMMMMMMM-             
+.hMMMMMMMMs`yMMMMMMm   `MMMMMsoMMMMMd             
+mMMMMMNh+`  `mMMMMMd   /MMMMs  -mMMMM:            
+-NMMMo-      `dMMMMN::` sMMMddy:`yMMMdoo+-        
+ `/color-       `#####:  `-:::-   -bear-
+*/
+pre{word-wrap:break-word;margin:0px;padding:10px;font-size:14px;margin-bottom:20px;}
+pre,code{font-family:'Monaco',courier,monospace;}
+pre .inherited-class{font-style:italic;}
+
+
+/* "00" */
+pre{ background-color: #FFFFFF; }
+
+/* "01" */
+pre .support.method{ color: #e0e0e0; }
+
+/* "02" */
+pre .constant{ color: #F1F2F4; }
+
+/* "03" */
+pre .comment{ color: #11141E; }
+
+
+/* "04" */
+pre { color: #202637; }
+
+/* "05" */
+pre .variable.global, pre .variable.class{ color: #57627F; }
+
+/* "06" */
+pre .support.property{ color: #142656; }
+
+/* "07" */
+pre .variable.instance{ color: #4E5B7F; }
+
+/* "08" */
+pre .constant.language{ color: #D72828; }
+
+
+/* "09" */
+pre .constant.regexp{ color: #7fc274; }
+
+/* "0A" */
+pre .string, pre .comment.docstring{ color: #138678; }
+pre .entity{ color: #138678; }
+
+/* "0B" */
+pre .support.tag.script, pre .support.tag.style{ color: #96C599; }
+
+/* "0C" */
+pre .string.regexp.open, pre .string.regexp.close{ color: #495883; }
+
+pre .support, *[data-language=\"c\"] .function.call{ color: #495883; }
+
+/* "0D" */
+pre .storage{ color: #B89DF0; }
+
+/* "0E" */
+pre .keyword, pre .selector{ color: #3E7959; }
+
+/* "0F" */
+pre .string.regexp{ color: #F9D1B8; }
